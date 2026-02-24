@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Local Environment Variables
+.env
+.env.local
+.env.*.local
+server/.env
+
+# Build outputs
+dist/
+client/dist/
+
+# System files
+.DS_Store
+Thumbs.db
+.vercel
+
+# Databases
+*.db
+server/*.db
+
+# Temporary/Sensitive scripts
+create-temp-admin.js
+test-delete.js
+test-get.js
+test-reg-real.json
+test-reg.json
