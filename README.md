@@ -2,6 +2,12 @@
 
 A premium tournament management platform built for Ludo Star enthusiasts. Organize tournaments, manage brackets, track matches, and showcase winners with a sleek, threads-inspired UI.
 
+## 🔗 Live Demo
+Check out the live app here: [https://ludo-tournament-ivory.vercel.app/](https://ludo-tournament-ivory.vercel.app/)
+
+## 📸 Preview
+![Landing Page](demo.png)
+
 ## 🚀 Features
 
 -   **Dynamic Brackets**: Support for 4-team and 8-team single-elimination formats.
